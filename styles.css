@@ -55,8 +55,6 @@ button{font:inherit}
   height:70px;
   max-width:250px;
   object-fit:contain;
-  filter:grayscale(1) brightness(4.5);
-  mix-blend-mode:screen;
 }
 .menu-btn{display:none;background:none;border:0;color:var(--ivory);text-transform:uppercase;letter-spacing:.16em;font-size:11px}
 .mobile-nav{display:none;padding:24px 32px 30px;border-top:1px solid rgba(255,255,255,.12);background:var(--black)}
